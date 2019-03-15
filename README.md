@@ -56,6 +56,9 @@ Since this is a classification problem, so I choose common classification models
 
 In the original dataset, the churn rate is about 23%. So I use recall rate and precision rate of churn group on test dataset to compare model performance.  
 
+![image](https://github.com/haleyxu816/Sparkily-Customer-Churn-Prediction/blob/master/picture/result.png)
+
+
 
 
 ## Data Source<a name="source"></a>
