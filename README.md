@@ -1,4 +1,4 @@
-# Sperkily-Customer-Churn-Prediction
+# Sparkily-Customer-Churn-Prediction
 
 ### Table of Contents
 
