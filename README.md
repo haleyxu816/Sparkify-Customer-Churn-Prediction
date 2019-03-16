@@ -58,7 +58,7 @@ In the original dataset, the churn rate is about 23%. So I use recall rate and p
 
 ![image](https://github.com/haleyxu816/Sparkily-Customer-Churn-Prediction/blob/master/picture/result.png)
 
-
+The main findings of the code can be found at the post available [here](https://medium.com/@haleyxu816/sparkify-user-churn-prediction-7ee90118ae99)
 
 
 ## Data Source<a name="source"></a>
